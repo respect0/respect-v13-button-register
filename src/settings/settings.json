@@ -1,0 +1,15 @@
+{
+    "guild": {
+        "id": "909534183167234059",
+        "tagges": ["†"],
+        "defaultTag": "†",
+        "nameTag": "†"
+    },
+    "bot": {
+        "owners": ["919663047923101736"],
+        "prefix" "!",
+        "mongoURL": "mongodb://localhost:27017/V13KayitTest",
+        "activity": "only respect?",
+        "token": "ODU2Mjk2MjIyNTE2MDUxOTY4.YM--AA.cFS4xBz5Dnj6TfYQFoRm_NHlyBk"
+    }
+}

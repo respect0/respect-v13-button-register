@@ -1,0 +1,8 @@
+{
+    "registerStaff": [""],
+    "unregisterRoles": [""],
+    "manRoles": [""],
+    "womanRoles": [""],
+    "boosterRole": "",
+    "tagRole": ""
+}
